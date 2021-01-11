@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81deef70-de60-40b0-9ed4-eea9b63448c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jnR959AnYcztSgG4eB1ryaTVXT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="git config --global user.email &quot;chikiuser@gmail.com&quot;" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81deef70-de60-40b0-9ed4-eea9b63448c9" name="Default Changelist" comment="" />
+      <created>1604437719151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604437719151</updated>
+      <workItem from="1604437722842" duration="6533000" />
+      <workItem from="1604444480337" duration="1704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1604444657430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604444657430" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1604444507345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604444507345" />
+    <state x="838" y="417" key="Github.ShareDialog" timestamp="1604445341239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604445341239" />
+    <state x="786" y="224" key="Github.UntrackedFilesDialog" timestamp="1604445435025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="786" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604445435025" />
+    <state width="681" height="266" key="GridCell.Tab.0.bottom" timestamp="1604445017381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604445017381" />
+    <state width="681" height="266" key="GridCell.Tab.0.center" timestamp="1604445017381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604445017381" />
+    <state width="681" height="266" key="GridCell.Tab.0.left" timestamp="1604445017381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604445017381" />
+    <state width="681" height="266" key="GridCell.Tab.0.right" timestamp="1604445017381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604445017381" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1604442957048">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604442957048" />
+    <state x="522" y="247" key="Vcs.Push.Dialog.v2" timestamp="1604452053912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="522" y="247" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604452053912" />
+    <state x="616" y="242" key="run.anything.popup" timestamp="1604444618846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="242" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604444618846" />
+  </component>
+</project>

@@ -1,0 +1,32 @@
+body {
+
+    background-image: url(reaper3.jpg), url("skull.gif");
+    background-color: #000000;
+
+}
+
+p {
+
+    color: #ff0000;
+    background: rgb(92, 239, 13); /* Fallback for older browsers without RGBA-support */
+    background: rgba(92, 239, 13, 0.5);
+    font-size: large;
+
+}
+
+h1 {
+    color: #ff0000;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+h2 {
+    color: #5aff00;
+}
+
+body { text-align: center }
