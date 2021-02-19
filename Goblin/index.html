@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>goblin</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div class="container">
+<h1>თქვენ შეხვდით ბრძენ გობლინს</h1>
+
+<form action="/action_page.php">
+  <br>დაუსვი კითხვა გობლინს<br>
+  <label for="question"></label>
+
+<textarea id="question" name="question" rows="4" cols="50" onfocus="question=''" >
+Blabla
+  </textarea>
+  <br><br>
+  <input type="button" id="ask" value="ჰკითხე" onclick="msg()">
+  
+</form>
+
+<script> function msg() {
+  alert("think");
+}
+
+</script>
+
+</div>
